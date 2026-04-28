@@ -1,9 +1,7 @@
-streamlit
-sentence-transformers
-scikit-learn
-python-docx
-PyMuPDF
-numpy
 torch
-transformers
+torchvision
 pymupdf
+sentence-transformers
+transformers
+streamlit
+python-docx
